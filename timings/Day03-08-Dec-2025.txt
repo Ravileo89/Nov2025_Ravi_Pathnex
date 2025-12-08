@@ -1,0 +1,9 @@
+Things I cover today:
+Code Practice day 3--> 2 hour
+Helm Revision-- 3 Hour
+ArgoCD revision--> 2 Hour
+
+Things I will do tomorrow
+Terraform- 4 Hour 
+Code Practice day 4--> 2 hour
+Intro- 30 Min
