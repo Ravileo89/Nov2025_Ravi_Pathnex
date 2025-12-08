@@ -1,0 +1,7 @@
+Things I cover today:
+Azure advance topic (Vnet , app resgistration, end points , NSG, bastion services  and azure kubernetes ) —> 5 hour
+
+
+Things I will do tomorrow 
+GCP topics —> 3 hour 
+Docker —> 3 hour

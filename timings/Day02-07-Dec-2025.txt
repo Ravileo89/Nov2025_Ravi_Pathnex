@@ -1,0 +1,9 @@
+Things I cover today:
+Code Practice day 2--> 2 hour
+K8S revision Completed --> 4 hour 
+AWS and Azure revision from quick revision pdf ( 50% left)--> 2 hour
+
+Things I will do tomorrow
+Complete revision from quick revision pdf--> 3 hour 
+Code Practice day 3--> 2 hour
+Helm Revision-- 3 Hour
