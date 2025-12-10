@@ -1,0 +1,11 @@
+Things I cover today:
+Terraform interview questions and pdf- 4 Hour 
+Code Practice day 4--> 2 hour
+terraform Azure related questions and code practice--> 2 hour 
+
+
+
+Things I will do tomorrow
+Terraform with aws, azure practice, advance interview questiosn from chat gpt- 3 Hour 
+Code Practice day 5--> 2 hour
+ansible revision and practicle --> 3 hour 
