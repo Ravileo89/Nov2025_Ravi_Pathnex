@@ -1,0 +1,9 @@
+Things I cover today:
+Terraform Aws- 4 Hour 
+Code Practice day 4--> 2 hour
+Intro- 30 Min
+
+
+Things I will do tomorrow
+Terraform Azure and Interview questions- 6 Hour 
+Code Practice day 5--> 2 hour
