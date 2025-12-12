@@ -1,0 +1,10 @@
+Topics I cover today:
+Ansible playbook codes use cases--> 2 Hour
+CI/CD pipeline --> 5 hour 
+code practice--> 1 hour 
+
+
+Topics i will do tomorrow
+Azure Devops ,GitLab and Jenkins Pipeline practical --> 5 Hour
+Interview Question related to CI/CD--> 2 Hour
+Code Practice--> 2 Hour
