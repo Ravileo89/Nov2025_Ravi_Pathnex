@@ -1,0 +1,6 @@
+Topics I cover today:
+Linux, Git and AWS whole revision--> 8 hour
+CI/CD revision--> 1 Hour
+
+Topics i will do tomorrow
+Terraform, k8s, docker, helm , argocd and ansible --> 9 hour
