@@ -1,0 +1,6 @@
+Topics I cover today:
+SRE, SSL , DevSecOps Tools--> 9 Hour
+
+Topics i will do tomorrow
+Linux, Git, aws and k8s--> 9 Hour
+Code Practice--> 1 Hour

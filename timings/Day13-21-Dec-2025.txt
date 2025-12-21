@@ -1,0 +1,12 @@
+Topics I cover today:
+Linux, Git, aws and k8s--> 6 Hour
+Code Practice--> 1 Hour
+Audio Clip day1--> 1 hour
+
+
+Topics i will do tomorrow
+CI/CD, Terraform  --> 9 Hour
+Audio Clip and questions--> 2 hour
+
+
+

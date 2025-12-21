@@ -1,0 +1,5 @@
+Topics I cover today:
+Terraform, k8s, docker, helm , argocd and ansible --> 9 hour
+
+Topics i will do tomorrow
+SRE, SSL , DevSecOps Tools--> 9 Hour
