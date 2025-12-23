@@ -1,0 +1,10 @@
+Topics I cover today:
+Audio clips and questions--> 8 Hour 
+code and script practice --> 2 hour 
+
+Topics i will do tomorrow
+Audio clips and questions--> 7 Hour 
+ci/cd and terraform revision --> 3 hour 
+
+
+
