@@ -1,0 +1,12 @@
+Topics I cover today:
+ci/cd and terraform revision --> 4 hour 
+Audio clips and questions--> 5 Hour
+Code practice--> 1 hour
+
+
+Topics i will do tomorrow
+k8s, aws revision --> 4 Hour
+Audio Clips and questions--> 4 hour
+code practice --> 1 hour 
+intro preparation (use cases )--> 1 hour 
+

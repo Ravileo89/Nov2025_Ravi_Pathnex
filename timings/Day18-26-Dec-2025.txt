@@ -1,0 +1,11 @@
+Topics I cover today:
+k8s, aws revision --> 4 Hour
+Audio Clips and questions--> 4 hour
+code practice --> 1 hour 
+intro preparation (use cases )--> 1 hour 
+
+
+
+Topics i will do tomorrow
+CI/CD audio questions all --> 7 Hour
+COde practice--> 1 Hour
