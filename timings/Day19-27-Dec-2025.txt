@@ -1,0 +1,7 @@
+Topics I cover today:
+CI/CD audio questions all --> 7 Hour
+Code practice--> 1 Hour
+Interview question for CI/CD by chat GPT--> 1 hour
+
+Topics i will do tomorrow
+K8s whole revision and audio clips questions --> 8 Hour
