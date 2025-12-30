@@ -1,0 +1,9 @@
+Topics I cover today:
+k8s yaml, shell scripting --> 4 Hour
+audio clips and questions--> 6 Hour
+
+
+Topics i will do tomorrow
+Interview questions --> 6 Hour
+revision--> 4 Hour 
+
