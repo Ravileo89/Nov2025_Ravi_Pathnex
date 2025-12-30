@@ -1,0 +1,9 @@
+Topics I cover today:
+AWS revise and audio clips question for AWS --> 8 Hour
+Code practice--> 1 hour
+
+
+Topics i will do tomorrow
+k8s yaml, shell scripting --> 4 Hour
+audio clips and questions--> 5 Hour
+
